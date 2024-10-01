@@ -1,4 +1,4 @@
-# Write Plant Class here!
-
 class Plant:
+
+# Write your plant class here!
     pass
